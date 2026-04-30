@@ -106,11 +106,6 @@ Run notebooks in this order:
 3. `03_insights.ipynb` — runs SQL analysis
 4. `04_ml_model.ipynb` — trains and evaluates ML models
 
----
-
-## 📸 Dashboard Preview
-
-*(Add a screenshot of your Power BI dashboard here)*
 
 ---
 
